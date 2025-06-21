@@ -17,8 +17,8 @@
 |---|---|
 | 🎓 **Student** | B.Sc. Engineering @ <a href="https://www.uma.es">University of Málaga</a> (AI & Cybersecurity track) |
 | 🛠 **Tech** | Python · C/C++/CUDA · PyTorch · Bash · Git |
-| 💹 **Focus** | Machine Learning · Quant Finance · GPU acceleration |
-| 🌍 **Based in** | Marbella, Spain |
+| 💹 **Focus** | Machine Learning · Quant Finance |
+| 🌍 **Based in** | Málaga, Spain |
 
 ---
 
@@ -30,15 +30,6 @@
 | **ImageSense** | CUDA · C++ | GPU-accelerated CNN reaching 95 % accuracy (NVIDIA DL cert project). |
 | **PacketPlayground** | C · Wireshark | Tiny lab for replaying & patching real network attacks. |
 
-<details>
-  <summary>📈 GitHub stats & nerdy graphs</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Esteban's GitHub stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-  </p>
-</details>
-
 ---
 
 ### 🏆 Tiny brag shelf
@@ -46,14 +37,6 @@
 - 🏅 **NVIDIA** “Fundamentals of Deep Learning” cert.  
 - ⚡ **NVIDIA** “Accelerated Computing with CUDA C/C++” cert.  
 - 🥇 High-honors tech baccalaureate.  
-- ⏱ Pull a perfect espresso in &lt; 40 s (dev fuel FTW).
-
----
-
-### 🔭 Current goals
-
-1. Publish my FX-bot results with live tracking.  
-2. Land an internship in **quant research** or **AI engineering** by 2026.  
 
 ---
 
