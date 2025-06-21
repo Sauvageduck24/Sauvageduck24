@@ -8,7 +8,8 @@
 <h1 align="center"><b>Hey, I'm Esteban — Sauvageduck24 🦆⚡</b></h1>
 
 <p align="center">
-  <em>Building smarter markets, one GPU cycle at a time.</em>
+  <em>Machine learning · Algorithmic-trading enthusiast
+</em>
 </p>
 
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
