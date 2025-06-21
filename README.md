@@ -69,9 +69,17 @@
 <details>
   <summary>📈 GitHub stats & nerdy graphs</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=estebansanchezgamez&show_icons=true&theme=radical" alt="Esteban's GitHub stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=estebansanchezgamez&theme=radical" alt="GitHub Streak" />
+    <!-- Stats card -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sauvageduck24&show_icons=true&count_private=true&theme=radical"
+      alt="Sauvageduck24's GitHub stats"
+    />
+    <br />
+    <!-- Streak card -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sauvageduck24&theme=radical"
+      alt="GitHub Streak"
+    />
   </p>
 </details>
 
