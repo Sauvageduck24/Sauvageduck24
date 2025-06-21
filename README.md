@@ -51,8 +51,9 @@
 
 ### 📄 Resume
 
-Feel free to download my latest CV here:  
-👉 [EstebanSanchez_CV.pdf](./Esteban Sánchez Gámez.pdf)
+Looking for more details?  
+You can view or download my CV here:  
+👉 [Esteban Sánchez Gámez.pdf](https://github.com/Sauvageduck24/Sauvageduck24/blob/main/Esteban%20S%C3%A1nchez%20G%C3%A1mez.pdf)
 
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
 ### 🤝  Connect
