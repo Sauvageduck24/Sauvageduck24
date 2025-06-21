@@ -1,98 +1,80 @@
-<h1 align="center">Hi there! I'm Esteban Sánchez Gámez 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/estebansanchezgamez/estebansanchezgamez/main/assets/banner.gif" alt="AI code, neon style" width="100%" />
+</p>
+
+<h1 align="center">Hey 👋 I’m Esteban</h1>
 
 <p align="center">
-  Passionate about AI, algorithmic trading, and building real-world solutions through code.
+  <em>AI tinkerer · Algorithmic-trading enthusiast · GPU hacker</em>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🪄 Quick bits
 
-I'm a curious and self-driven individual currently pursuing a degree in Engineering at the University of Málaga, with a strong focus on **Artificial Intelligence** and **Cybersecurity**. I enjoy exploring the intersection between **technology, data, and finance**, and I dedicate a lot of my free time to building projects that challenge and improve my skills.
-
-My passion lies in solving complex problems through programming, particularly in areas like **machine learning**, **algorithmic trading**, and **software optimization**.
-
----
-
-## 🧠 Key Interests
-
-- 🧮 **Artificial Intelligence & Deep Learning**
-- 📈 **Algorithmic Trading & Predictive Modeling**
-- ⚙️ **Low-level Optimization with C/C++ & CUDA**
-- 🔐 **Cybersecurity & Systems Engineering**
+|   |   |
+|---|---|
+| 🎓 **Student** | B.Sc. Engineering @ <a href="https://www.uma.es">University of Málaga</a> (AI & Cybersecurity track) |
+| 🛠 **Tech** | Python · C/C++/CUDA · PyTorch · Bash · Git |
+| 💹 **Focus** | Machine Learning · Quant Finance · GPU acceleration |
+| 🌍 **Based in** | Marbella, Spain |
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 What I’m building
 
-- **Languages**: Python, C, C++, CUDA, Bash
-- **Libraries & Tools**: PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn
-- **AI & ML**: Deep Learning, Image Classification, Model Optimization
-- **Finance & Trading**: Strategy Automation, Backtesting, Market Data Analysis
-- **Other**: Git, GitHub, VS Code, Linux CLI
+| Project | Stack | 1-liner |
+|---------|-------|---------|
+| **MarketMind** | Python · PyTorch | Deep-RL bots that learn to trade FX while I sleep. |
+| **ImageSense** | CUDA · C++ | GPU-accelerated CNN reaching 95 % accuracy (NVIDIA DL cert project). |
+| **PacketPlayground** | C · Wireshark | Tiny lab for replaying & patching real network attacks. |
 
----
+<details>
+  <summary>📝 More side projects</summary>
 
-## 🧪 Projects
+- **Backtest-CLI** — terminal tool for rapid strategy prototyping.  
+- **Crypto-Sentiment** — scrapes Twitter + Reddit, feeds an LSTM model.  
 
-### 📊 Algorithmic Trading Bots
-- Developed several automated trading bots using Python.
-- Implemented predictive models for strategy backtesting and execution.
-- Applied statistical and machine learning techniques for signal generation.
-
-### 🧠 Image Classifier (95% Accuracy)
-- Built and trained a CNN model using PyTorch to classify images.
-- Final project for NVIDIA’s "Fundamentals of Deep Learning" certificate.
-
-### ⚡ CUDA Optimization
-- Completed NVIDIA’s "Fundamentals of Accelerated Computing with CUDA C/C++".
-- Rewrote and optimized C/C++ algorithms to leverage GPU acceleration.
-
-### 🔐 Cybersecurity Simulations
-- Simulated network attacks and defenses as part of coursework.
-- Explored encryption methods and secure protocols in practice.
+</details>
 
 ---
 
-## 🎓 Education
+### 🏆 Tiny brag shelf
 
-### 🎓 University of Málaga — BSc in Engineering (2023–2027)
-- Specialization in Artificial Intelligence and Cybersecurity
-- Focus on Programming, Data Structures, Software Development, and Applied Mathematics
-
-### 📜 Additional Certifications
-- **NVIDIA - Fundamentals of Deep Learning**  
-- **NVIDIA - CUDA C/C++ for Accelerated Computing**
+- 🏅 **NVIDIA** “Fundamentals of Deep Learning” cert.  
+- ⚡ **NVIDIA** “Accelerated Computing with CUDA C/C++” cert.  
+- 🥇 High-honors tech baccalaureate.  
+- ⏱ Pull a perfect espresso in &lt; 40 s (dev fuel FTW).
 
 ---
 
-## 💼 Experience
+### 🔭 Current goals
 
-**McDonald's (May–Sep 2024) — Kitchen Assistant**  
-First job experience, learning discipline, responsibility, and the value of effort in a real-world work environment.
-
----
-
-## 📍 Location & Contact
-
-- 📌 Marbella, Spain  
-- 📧 [estebansanchezgamez@gmail.com](mailto:estebansanchezgamez@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/esteban-s%C3%A1nchez-g%C3%A1mez-540064216)  
+1. Publish my FX-bot results with live tracking.  
+2. Land an internship in **quant research** or **AI engineering** by 2026.  
 
 ---
 
-## 🔍 Looking for Opportunities
+### 📫 Let’s talk
 
-I am actively seeking internship or junior opportunities in the fields of:
-- 💹 **Algorithmic Trading**
-- 🧠 **AI/ML Research or Engineering**
-- 🔐 **Cybersecurity and Applied Intelligence**
-
-If you’re working on something exciting in any of these areas, feel free to reach out!
+<div align="center">
+  <a href="mailto:estebansanchezgamez@gmail.com"><img src="https://img.shields.io/badge/Email-Esteban-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/esteban-sánchez-gámez-540064216"><img src="https://img.shields.io/badge/LinkedIn-%40EstebanSanchezGamez-blue?style=for-the-badge&logo=linkedin"></a>
+</div>
 
 ---
 
-## 🙌 Let’s Connect!
+<details>
+  <summary>📈 GitHub stats & nerdy graphs</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=estebansanchezgamez&show_icons=true&theme=radical" alt="Esteban's GitHub stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=estebansanchezgamez&theme=radical" alt="GitHub Streak" />
+  </p>
+</details>
 
-Feel free to reach out if you want to collaborate, share ideas, or just chat about tech, trading, etc.
-
+<!-- Visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=estebansanchezgamez&style=flat-square&color=blue" alt="Profile views" />
+</p>
