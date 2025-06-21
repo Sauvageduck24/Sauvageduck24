@@ -49,6 +49,11 @@
 - ⚡ **NVIDIA** — <sub>Accelerated Computing with CUDA C/C++</sub>  
 - 🥇 Graduated tech-baccalaureate with top honors  
 
+### 📄 Resume
+
+Feel free to download my latest CV here:  
+👉 [EstebanSanchez_CV.pdf](./Esteban Sánchez Gámez.pdf)
+
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
 ### 🤝  Connect
 
