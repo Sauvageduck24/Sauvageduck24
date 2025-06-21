@@ -31,11 +31,12 @@
 | **PacketPlayground** | C · Wireshark | Tiny lab for replaying & patching real network attacks. |
 
 <details>
-  <summary>📝 More side projects</summary>
-
-- **Backtest-CLI** — terminal tool for rapid strategy prototyping.  
-- **Crypto-Sentiment** — scrapes Twitter + Reddit, feeds an LSTM model.  
-
+  <summary>📈 GitHub stats & nerdy graphs</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Esteban's GitHub stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  </p>
 </details>
 
 ---
