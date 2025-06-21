@@ -41,14 +41,6 @@
 | **HMU** | CUDA · PyTorch | Re-creation of *Hippocampus Memory Unit* paper + open-sourced code |
 | **Sigma Security** | Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
 
-<details>
-  <summary>🗂️  &nbsp;Small utilities & experiments</summary>
-
-- **Backtest-CLI** → 3-line strategy prototyping from your terminal  
-- **Crypto-Sentiment** → Scrape • Vectorize • Predict social-media moves  
-- **GPU-Katas** → Micro-benchmarks to squeeze extra TFLOPs out of CUDA
-</details>
-
 <!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
 ### 🏆  Certs & kudos
 
@@ -70,11 +62,19 @@
 
 <!-- ──────────────────────────── 📊 STATS ──────────────────────────── -->
 <details>
-  <summary>📈  GitHub stats (click to expand)</summary>
+  <summary>📈 GitHub stats & nerdy graphs</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sauvageduck24&show_icons=true&count_private=true&hide_rank=true&theme=radical" alt="Sauvageduck24's GitHub stats" />
+    <!-- Stats card -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sauvageduck24&show_icons=true&count_private=true&theme=radical"
+      alt="Sauvageduck24's GitHub stats"
+    />
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sauvageduck24&theme=radical" alt="GitHub Streak" />
+    <!-- Streak card -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sauvageduck24&theme=radical"
+      alt="GitHub Streak"
+    />
   </p>
 </details>
 
