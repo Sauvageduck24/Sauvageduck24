@@ -37,9 +37,9 @@
 
 | 🚀 Project | ⚙️ Stack | ⚡ Elevator Pitch |
 |-----------|----------|------------------|
-| [**Market Master**](https://github.com/Sauvageduck24/MarketMaster) | Python · C | Modular algorithmic-trading engine with live brokerage support |
+| [**Market Master**](https://github.com/Sauvageduck24/Market-Master-Algorithmic-Trading-System) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of *Hippocampus Memory Unit* paper + open-sourced code |
-| [**Sigma Security**](https://github.com/Sauvageduck24/SigmaSecurity) | Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
+| [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
 
 
 <!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
