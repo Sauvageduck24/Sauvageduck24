@@ -26,9 +26,9 @@
 
 | Project | Stack | 1-liner |
 |---------|-------|---------|
-| **MarketMind** | Python · PyTorch | Deep-RL bots that learn to trade FX while I sleep. |
-| **ImageSense** | CUDA · C++ | GPU-accelerated CNN reaching 95 % accuracy (NVIDIA DL cert project). |
-| **PacketPlayground** | C · Wireshark | Tiny lab for replaying & patching real network attacks. |
+| **Market Master** | Python · C  · Quant Finance | Algorithmic Trading System |
+| **HMU** | CUDA · Python  · Pytorch | Hipocampus Memory Unit paper and code |
+| **Sigma Security** | Python · Flask · Js | University subject practice website |
 
 ---
 
