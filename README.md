@@ -79,10 +79,6 @@ You can view or download my CV here:
     />
     <br />
     <!-- Streak card -->
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Sauvageduck24&theme=radical"
-      alt="GitHub Streak"
-    />
   </p>
 </details>
 
