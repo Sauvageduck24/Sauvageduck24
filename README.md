@@ -41,6 +41,7 @@
 | [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of *Hippocampus Memory Unit* paper + open-sourced code |
 | [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
 | [**University Class Practices**](https://github.com/Sauvageduck24/Univ) | Python | University class practices in different fields, such as AI, algorithms, etc. |
+| [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python | AI for Earthquake Response Competition solution implementation |
 
 
 <!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
