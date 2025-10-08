@@ -15,7 +15,7 @@
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
 <table align="center">
   <tr>
-    <td>🎓 <b>Student</b></td>
+    <td>🎓 <b>Education</b></td>
     <td>B.Sc. Engineering @ <a href="https://www.uma.es">University of Málaga</a><br><sub>AI & Cybersecurity track</sub></td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
 <!-- ──────────────────────────── 📂 REPOSITORIES ──────────────────────────── -->
 ### 📂 Featured Repositories
 
-| 🚀 Project | ⚙️ Stack | ⚡ Elevator Pitch |
+| 🚀 Project | ⚙️ Tools | ⚡ Summary |
 |-----------|----------|------------------|
 | [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
