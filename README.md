@@ -5,7 +5,7 @@
        alt="Neon AI code banner" width="100%" />
 </p>
 
-<h1 align="center"><b>Hey, I'm Esteban — Sauvageduck24 🦆⚡</b></h1>
+<h1 align="center"><b>Hey, I'm Esteban Sánchez Gámez⚡</b></h1>
 
 <p align="center">
   <em>Machine learning · Algorithmic-trading enthusiast
