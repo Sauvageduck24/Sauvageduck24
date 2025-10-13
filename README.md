@@ -39,7 +39,8 @@
 |-----------|----------|------------------|
 | [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
-| [**Market data pattern recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · Pytorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
+| [**Market Data Pattern Recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · Pytorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
+| [**Market Data Regime Detection**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | Python · Pytorch | This project implements a complete pipeline for market regime detection using states detected by the models. |
 | [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of *Hippocampus Memory Unit* paper + open-sourced code |
 | [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA| AI for Earthquake Response Competition solution implementation |
 | [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Python · Mysql · Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
