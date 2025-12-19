@@ -1,103 +1,136 @@
 
 # Esteban Sánchez Gámez
-Málaga, Spain · estebansanchezgamez@gmail.com · +34 674 528 287  
-Date of Birth: 24/08/2005  
-LinkedIn: https://www.linkedin.com/in/esteban-sánchez-gámez-540064216 · GitHub: https://github.com/Sauvageduck24
+
+* **Location:** Marbella, 29601, Spain
+* **Phone:** +34 674 528 287
+* **Email:** estebansanchezgamez@gmail.com
+* **LinkedIn:** [Esteban Sánchez Gámez](https://www.linkedin.com/in/esteban-s%C3%A1nchez-g%C3%A1mez-540064216)
+* **GitHub:** [github.com/Sauvageduck24](https://github.com/Sauvageduck24)
 
 ---
 
-## Professional Summary
-AI & Cybersecurity Engineering student at University of Málaga with expertise in machine learning, algorithmic trading, and cybersecurity. Implemented cutting-edge research papers, built production-ready platforms, and competed in international AI challenges. Delivered complex technical solutions with 5+ open-source projects and consistent GitHub contributions. Strong foundation in PyTorch, CUDA programming, and full-stack development. Focused on high-performance computing, quantitative finance, and automotive AI applications.
+## ABOUT ME
+
+**Software Engineer specializing in AI and Cybersecurity**
+
+Advanced Engineering student with solid practical experience in predictive model development, Deep Learning, and Offensive Security. Specialized in hardware optimization (CUDA) and algorithmic trading. Proven track record of vulnerability detection and Open Source solution development. Seeking to apply knowledge in high-performance environments.
 
 ---
 
-## Education
-**University of Málaga (UMA)** — B.Sc. in Cybersecurity & Artificial Intelligence (in progress), 2023–2027  
-- Core computer science fundamentals with applied machine learning and cybersecurity focus
+## WORK EXPERIENCE
 
-**IES Guadalpín** — Science & Technology Track, 2021–2023  
-- Graduated with honors in Physics, Mathematics, Industrial Technology, and Technical Drawing
+### Software Developer and Security Researcher (Freelance)
 
----
+* **Location:** Remote
+* **Period:** Sep. 2022 – Present
+* **Description:**
 
-## Certifications
-- **NVIDIA — Fundamentals of Accelerated Computing with CUDA C/C++ (2024)**
-- **NVIDIA — Fundamentals of Deep Learning (2024)** — Final project: image classification (95% accuracy)
+* Development of high-frequency algorithmic trading engines using Python and C, with REST API integration and WebSockets for direct real-time connection to brokers.
 
----
+* Vulnerability research (Bug Bounty & Responsible Disclosure) reporting critical flaws (RCE, API Tokens) in corporate infrastructures using Metasploit, Burp Suite, and Nmap.
 
-## Technical Skills
-- **Programming Languages:** Python, C, C++ (CUDA), JavaScript, HTML/CSS
-- **Machine Learning & AI:** PyTorch, scikit-learn, TensorFlow, model evaluation, hyperparameter optimization (Optuna), feature engineering
-- **Deep Learning:** Neural network architectures, GPU acceleration, memory optimization, reproducible research, transfer learning
-- **Data Science:** NumPy, pandas, matplotlib, plotly, data visualization, ETL processes, statistical analysis
-- **Time Series & Trading:** Strategy research, backtesting (VectorBT), signal generation, risk metrics, regime detection, portfolio optimization
-- **Web Development:** Flask, MySQL, RESTful APIs, frontend development, responsive design
-- **DevOps & Tools:** Git/GitHub, Linux, Docker, VS Code/Cursor, Jupyter, CUDA toolkit, CI/CD basics
-- **Cybersecurity:** Network security, secure coding practices, penetration testing fundamentals, cryptography
-- **Cloud & Infrastructure:** AWS basics, cloud deployment, scalable architecture concepts
+* Implementation of neural networks and algorithm optimization with CUDA, C++, and PyTorch, recreating academic papers (Hippocampus Memory Unit) following Clean Code and SOLID principles.
+
+* Development of cybersecurity training platforms (CTF) deployed with Flask and Docker, applying Agile and CI/CD methodologies for continuous deployment.
+
+### MCDONALD'S
+
+* **Position:** Kitchen Assistant
+* **Location:** Marbella
+* **Period:** May 2024 - Sep 2024
+* **Description:** My first work experience, where I learned the value of effort, responsibility, and consistent work. It allowed me to understand firsthand what it means to earn things through dedication.
 
 ---
 
-## Professional Projects
+## TECHNICAL SKILLS (STACK)
 
-### **Market Master — Algorithmic Trading Engine** — Python, VectorBT, Optuna, PyTorch
-- **Built production-ready algorithmic trading system** for EUR/USD intraday data with comprehensive backtesting framework
-- **Implemented advanced regime detection** and anomaly detection systems for adaptive trading strategies
-- **Developed optimization workflows** using Optuna with correlation-aware model blending and robustness objectives
-- **Created robust risk management systems** with position sizing, stop-loss mechanisms, and portfolio diversification
+* **Languages:** Python (Advanced), C/C++, SQL, JavaScript, Bash.
 
-### **HMU (Hippocampus Memory Unit)** — PyTorch, CUDA, Research Implementation
-- **Successfully recreated and open-sourced** the HMU paper implementation, demonstrating advanced memory mechanisms in neural networks
-- **Implemented complex memory architectures** with CUDA acceleration for high-performance computing
-- **Contributed to open-source AI community** by making cutting-edge research accessible and reproducible
+* **AI & Data Science:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, CUDA, NVIDIA Deep Learning SDK.
 
-### **Sigma Security Platform** — Python, Flask, MySQL, JavaScript
-- **Architected and deployed** a lightweight Capture-The-Flag (CTF) platform for university cybersecurity laboratories
-- **Developed full-stack web application** with secure user authentication, challenge management, and real-time scoring system
-- **Implemented secure coding practices** including input validation, SQL injection prevention, and XSS protection
+* **Cybersecurity:** Pentesting, Metasploit, Burp Suite, Wireshark, Nmap, Kali Linux, OWASP, Network Analysis, Reverse Engineering.
 
-### **EESA AI for Earthquake Response Competition** — Python, PyTorch, CUDA
-- **Competed internationally** in AI competition focused on earthquake response and disaster management
-- **Implemented advanced deep learning models** for seismic data analysis and prediction with CUDA acceleration
+* **APIs & Backend:** REST API, WebSockets, Flask.
 
-### **University Class Practices Repository** — Python, Jupyter
-- **Maintained comprehensive collection** of AI, algorithms, and computer science coursework projects
-- **Demonstrated consistent learning progression** and practical application of theoretical concepts
+* **Methodologies & Best Practices:** Agile, Scrum, CI/CD, Clean Code, SOLID Principles, Unit Testing, Debugging.
+
+* **Infrastructure & Tools:** Git, Docker, Linux.
 
 ---
 
-## Professional Experience
-**McDonald's — Kitchen Assistant** | Marbella, Spain | May 2024 – Sep 2024  
-- **Managed high-throughput operations** with strict timing, safety, and quality standards in fast-paced environment
-- **Developed strong teamwork and leadership skills** coordinating with team under pressure during peak hours
-- **Demonstrated reliability and ownership** maintaining high accuracy in order fulfillment and quality control
+## FEATURED PROJECTS
+
+### Machine Learning and Quantitative Finance
+
+* **Market Master** — Modular algorithmic trading engine with REST API and WebSockets for real-time broker connections, implemented with Unit Testing and CI/CD (Python, C)
+* **Market Data Pattern Recognition** — Anomaly detection system for OHLCV financial data using unsupervised ensemble models with Scikit-learn and PyTorch (Python)
+* **Market Data Regime Detection** — Complete pipeline for market regime detection with visualization in Matplotlib and statistical analysis (Python, PyTorch, Scikit-learn)
+* **Altair AI Studio Comp** — Workflow transforming FX data into trading intelligence (Altair AI Studio, Streamlit)
+
+### Deep Learning and CUDA
+
+* **HMU (Hippocampus Memory Unit)** — Recreation of the paper *Hippocampus Memory Unit* with open-source code (CUDA, PyTorch)
+* **EESA AI for Earthquake Response Competition** — Solution implemented for an AI competition focused on earthquake response (Python, PyTorch, CUDA)
+
+### Cybersecurity
+
+* **Sigma Security** — CTF platform with a REST API backend developed using Clean Code and Agile methodologies (Python, MySQL, Flask, JavaScript, Docker)
+* **Responsible Disclosure** — Responsible identification and reporting of vulnerabilities using Metasploit, Burp Suite, Nmap, and Wireshark in private entities (RCE, unauthenticated access, exposed API tokens), contributing to their remediation through coordinated disclosure processes
+* **Practice on CTF platforms:** Solving vulnerabilities on Hack The Box and TryHackMe using Kali Linux, Metasploit, SQLMap, Wireshark, and Nmap to develop practical skills in penetration testing and vulnerability exploitation
 
 ---
 
-## Achievements & Leadership
-- **Graduated with honors** across all STEM subjects in high school (Physics, Mathematics, Industrial Technology)
-- **Active open-source contributor** with 5+ repositories and professional documentation standards
-- **International competition participant** in AI for disaster response (EESA)
-- **Research paper implementation** and open-source contribution making advanced AI research accessible to community
-- **Self-directed learning initiative** in quantitative finance, automotive ML, and cybersecurity with consistent GitHub activity
-- **Technical mentorship** providing code reviews and guidance to junior developers in open-source projects
+## EDUCATION
+
+### UMA (University of Malaga)
+
+* **Studies:** Bachelor's Degree in Cybersecurity and Artificial Intelligence (4 years)
+* **Start:** Sep 2023
+* **End:** 2027
+* **Areas of Study:**
+
+* Technical skills in Programming and Data Structures
+
+* Advanced knowledge of Networks and Software Development
+
+* Foundations of Applied and Advanced Mathematics
+
+* Specialization in Artificial Intelligence and Cybersecurity
+
+* Offensive
+
+Security and Pentesting Techniques
+
+* Red Teaming and Offensive Operations
+
+* Vulnerability Analysis and System Exploitation
+
+* Network and Operating System Security
+
+### CONSERVATORY
+
+* **Instrument:** Piano
+* **Fuengirola Professional Conservatory of Music (ongoing):** Development of advanced skills in piano technique, harmony, music theory, and chamber music practice.
+
+* **Marbella Elementary Conservatory of Music:** Studies in basic piano, music theory, and instrumental performance.
 
 ---
 
-## Professional Interests & Specializations
-- **Automotive AI:** Powertrain optimization, vehicle aerodynamics, embedded ML systems, autonomous driving
-- **Quantitative Finance:** Algorithmic trading, risk management, market microstructure, portfolio optimization
-- **High-Performance Computing:** CUDA programming, GPU acceleration, parallel computing, distributed systems
-- **Cybersecurity:** Network security, secure software development, penetration testing, threat intelligence
+## CERTIFICATIONS (NVIDIA - 2024)
+
+### Fundamentals of Deep Learning
+
+* Certificate in Fundamentals of Deep Learning
+* Final Project: Image Classification with 95% Accuracy
+
+### Fundamentals of Accelerated Computing with CUDA C/C++
+
+* NVIDIA CUDA C/C++ Certificate
+* Optimization of Algorithms with CUDA
 
 ---
 
-## Languages
-- **Spanish:** Native
-- **English:** Upper Intermediate English (B2+)
+## LANGUAGES
 
----
-
-## Additional Education & Interests
-**Conservatory Studies (Piano)** — Conservatorio Elemental de Música de Marbella (completed); Conservatorio Profesional de Música de Fuengirola (ongoing)
+* **SPANISH:** Native
+* **ENGLISH:** Technical (Advanced Reading/Writing)
