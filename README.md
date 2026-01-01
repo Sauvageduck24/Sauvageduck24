@@ -37,6 +37,7 @@
 
 | 🚀 Project | ⚙️ Tools | ⚡ Summary |
 |-----------|----------|------------------|
+| [**LLQuant**](https://github.com/SilverDelgado/LLQuant) | Python · XGBoost · LLM | **Hybrid Quant System:** Cross-sectional alpha generation + LLM auditing & Black-Litterman optimization. |
 | [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
 | [**Market Data Pattern Recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · Pytorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
