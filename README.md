@@ -4,12 +4,9 @@
   <img src="https://raw.githubusercontent.com/Sauvageduck24/Sauvageduck24/main/assets/banner.gif"
        alt="Neon AI code banner" width="100%" />
 </p>
-
-<h1 align="center"><b>Hey, I'm Esteban Sánchez Gámez⚡</b></h1>
-
+<h1 align="center"><b>Hey, I'm Esteban Sánchez Gámez ⚡</b></h1>
 <p align="center">
-  <em>Machine learning · Algorithmic-trading enthusiast
-</em>
+  <em>Machine Learning · Algorithmic-Trading Enthusiast</em>
 </p>
 
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
@@ -24,7 +21,11 @@
   </tr>
   <tr>
     <td>💹 <b>Focus</b></td>
-    <td>Machine Learning · Quant Finance · Low-latency systems</td>
+    <td>Machine Learning · Quant Finance · Low-latency Systems</td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Currently</b></td>
+    <td>Building quant systems & exploring LLM-driven alpha generation</td>
   </tr>
   <tr>
     <td>📍 <b>Base</b></td>
@@ -34,36 +35,31 @@
 
 <!-- ──────────────────────────── 📂 REPOSITORIES ──────────────────────────── -->
 ### 📂 Featured Repositories
-
 | 🚀 Project | ⚙️ Tools | ⚡ Summary |
 |-----------|----------|------------------|
 | [**LLQuant**](https://github.com/SilverDelgado/LLQuant) | Python · XGBoost · LLM | **Hybrid Quant System:** Cross-sectional alpha generation + LLM auditing & Black-Litterman optimization. |
-| [**Hackathon**](https://github.com/Sauvageduck24/Hackathon-Market-Master) | Python · Optuna · Binance | Framework de trading algorítmico y backtesting de criptomonedas desarrollado para la **Hackathon HackersWeek 2026** de la Universidad de Málaga. Permite crear, optimizar y evaluar estrategias con métricas de riesgo como Sharpe ratio y Max Drawdown. 📈|
-| [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
-| [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
-| [**Market Data Pattern Recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · Pytorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
-| [**Market Data Regime Detection**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | Python · Pytorch | This project implements a complete pipeline for market regime detection using states detected by the models. |
-| [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of *Hippocampus Memory Unit* paper + open-sourced code |
-| [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA| AI for Earthquake Response Competition solution implementation |
-| [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Python · Mysql · Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
-| [**University Class Practices**](https://github.com/Sauvageduck24/Univ) | Python | University class practices in different fields, such as AI, algorithms, etc. |
+| [**Hackathon Market Master**](https://github.com/Sauvageduck24/Hackathon-Market-Master) | Python · Optuna · Binance | Algorithmic trading & crypto backtesting framework built for **HackersWeek 2026** @ University of Málaga. Features strategy creation, optimization, and risk metrics (Sharpe ratio, Max Drawdown). 📈 |
+| [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support. |
+| [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence. |
+| [**Market Data Pattern Recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · PyTorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
+| [**Market Data Regime Detection**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | Python · PyTorch | Full pipeline for market regime detection using hidden states from deep learning models. |
+| [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of the *Hippocampus Memory Unit* paper with open-sourced code. |
+| [**EESA AI for Earthquake Response**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · PyTorch · CUDA | Competition solution for AI-driven earthquake response and damage assessment. |
+| [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Python · MySQL · Flask · JS | Lightweight capture-the-flag platform for university cybersecurity labs. |
 
 <!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
-### 🏆  Certs & kudos
-
+### 🏆 Certs & Kudos
 - 🏅 **NVIDIA** — <sub>Fundamentals of Deep Learning</sub>  
 - ⚡ **NVIDIA** — <sub>Accelerated Computing with CUDA C/C++</sub>  
 - 🥇 Graduated tech-baccalaureate with top honors  
 
 ### 📄 Resume
-
 Looking for more details?  
 You can view or download my CV here:  
-👉 [Esteban Sánchez Gámez CV](https://github.com/Sauvageduck24/Sauvageduck24/blob/main/Esteban_Sanchez_Gamez_Resume.md)
+👉 [Esteban Sánchez Gámez — CV](https://github.com/Sauvageduck24/Sauvageduck24/blob/main/Esteban_Sanchez_Gamez_Resume.md)
 
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
-### 🤝  Connect
-
+### 🤝 Connect
 <div align="center">
   <a href="mailto:estebansanchezgamez@gmail.com">
     <img src="https://img.shields.io/badge/Email-Shoot&nbsp;me&nbsp;a&nbsp;msg-informational?style=for-the-badge&logo=gmail&logoColor=white">
@@ -77,13 +73,15 @@ You can view or download my CV here:
 <details>
   <summary>📈 GitHub stats & nerdy graphs</summary>
   <p align="center">
-    <!-- Stats card -->
     <img
       src="https://github-readme-stats.vercel.app/api?username=Sauvageduck24&show_icons=true&count_private=true&theme=radical"
       alt="Sauvageduck24's GitHub stats"
     />
     <br />
-    <!-- Streak card -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sauvageduck24&theme=radical"
+      alt="Sauvageduck24's GitHub streak"
+    />
   </p>
 </details>
 
