@@ -39,6 +39,7 @@
 |-----------|----------|------------------|
 | [**LLQuant**](https://github.com/SilverDelgado/LLQuant) | Python · XGBoost · LLM | **Hybrid Quant System:** Cross-sectional alpha generation + LLM auditing & Black-Litterman optimization. |
 | [**Hackathon Market Master**](https://github.com/Sauvageduck24/Hackathon-Market-Master) | Python · Optuna · Binance | Algorithmic trading & crypto backtesting framework built for **HackersWeek 2026** @ University of Málaga. Features strategy creation, optimization, and risk metrics (Sharpe ratio, Max Drawdown). 📈 |
+| [**OPPLUS COMP**](https://github.com/Sauvageduck24/OpplusComp) | Python | Modular algorithmic-trading engine with live brokerage support. |
 | [**Market Master**](https://github.com/Sauvageduck24/marketmasterreadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support. |
 | [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence. |
 | [**Market Data Pattern Recognition**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · PyTorch | Anomaly detection system for financial OHLCV data using ensemble unsupervised models to identify unusual market patterns. |
