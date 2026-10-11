@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>💼 <b>Experience</b></td>
-    <td><b>AI Engineer</b> @ <a href="https://www.dekra.com/" target="_blank" rel="noopener noreferrer">DEKRA</a><br><sub>AI-driven software security &amp; engineering</sub></td>
+    <td><b>AI Engineer</b> Working at @ <a href="https://www.dekra.com/" target="_blank" rel="noopener noreferrer">DEKRA</a><br><sub>AI-driven software security &amp; engineering</sub></td>
   </tr>
   <tr>
     <td>🛠 <b>Stack</b></td>
