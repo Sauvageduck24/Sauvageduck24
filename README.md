@@ -6,7 +6,7 @@
 </p>
 <h1 align="center"><b>Hey, I'm Esteban Sánchez Gámez ⚡</b></h1>
 <p align="center">
-  <em>Machine Learning · Algorithmic-Trading Enthusiast</em>
+  <em>AI Engineer @ DEKRA · Cybersecurity · Machine Learning</em>
 </p>
 
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
@@ -16,20 +16,24 @@
     <td>B.Sc. Engineering @ <a href="https://www.uma.es">University of Málaga</a><br><sub>AI & Cybersecurity track</sub></td>
   </tr>
   <tr>
+    <td>💼 <b>Experience</b></td>
+    <td><b>AI Engineer</b> @ <a href="https://www.dekra.com/">DEKRA</a><br><sub>AI-driven software security &amp; engineering</sub></td>
+  </tr>
+  <tr>
     <td>🛠 <b>Stack</b></td>
-    <td>Python ‧ C/C++/CUDA ‧ PyTorch ‧ Bash ‧ Git</td>
+    <td>Python ‧ C/C++/CUDA ‧ PyTorch ‧ LLMs ‧ Bash ‧ Git</td>
   </tr>
   <tr>
     <td>💹 <b>Focus</b></td>
-    <td>Machine Learning · Quant Finance · Low-latency Systems</td>
+    <td>AI Engineering · Software Security · Machine Learning · Quant Finance</td>
   </tr>
   <tr>
     <td>🔭 <b>Currently</b></td>
-    <td>Building quant systems & exploring LLM-driven alpha generation</td>
+    <td>Developing AI agents and LLM-driven tools for software security and code analysis</td>
   </tr>
   <tr>
     <td>📍 <b>Base</b></td>
-    <td>Málaga, Spain (GMT+2)</td>
+    <td>Málaga, Spain</td>
   </tr>
 </table>
 
