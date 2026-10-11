@@ -1,8 +1,8 @@
 
 # Esteban Sánchez Gámez
 
-* **Location:** Marbella, 29601, Spain
-* **Phone:** +34 674 528 287
+* **Location:** Marbella, Spain
+* **Phone:** ....
 * **Email:** estebansanchezgamez@gmail.com
 * **LinkedIn:** [Esteban Sánchez Gámez](https://www.linkedin.com/in/esteban-s%C3%A1nchez-g%C3%A1mez-540064216)
 * **GitHub:** [github.com/Sauvageduck24](https://github.com/Sauvageduck24)
