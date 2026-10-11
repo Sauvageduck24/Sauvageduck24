@@ -6,7 +6,7 @@
 </p>
 <h1 align="center"><b>Hey, I'm Esteban Sánchez Gámez ⚡</b></h1>
 <p align="center">
-  <em>AI Engineer @ DEKRA · Cybersecurity · Machine Learning</em>
+  <em>AI Engineer @ DEKRA · Cybersecurity · AI</em>
 </p>
 
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
